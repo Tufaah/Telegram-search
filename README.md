@@ -1,6 +1,11 @@
 # Telegram search
 Simple web scrapping to search from telegram
-You can search for ( Photos | Videos / Links | Files )
+
+## Search types
+- Photos 
+- Videos
+- Links
+- Files
 
 ## Help
 
