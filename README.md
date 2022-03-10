@@ -1,6 +1,12 @@
 # Telegram search
 Simple web scrapping to search from telegram
 
+## Free API
+https://api.tufaah.repl.co/telegram-search/?type=videos&channel=funny&keyword=Nice
+https://api.tufaah.repl.co/telegram-search/?type=photos&channel=memes&keyword=a
+https://api.tufaah.repl.co/telegram-search/?type=links&channel=memes&keyword=a
+https://api.tufaah.repl.co/telegram-search/?type=files&channel=avira&keyword=python
+
 ## Search types
 - Photos 
 - Videos
